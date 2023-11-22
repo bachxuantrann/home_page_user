@@ -321,6 +321,7 @@ a:hover {
 .feedback {
     padding: 67px 0 50px;
     position: relative;
+    height: 850px;
 }
 .feedback .title {
     color: #616161;
@@ -337,6 +338,7 @@ a:hover {
     font-weight: 700;
     line-height: 120%; /* 48px */
 }
+
 .feedback .img_pos {
     position: absolute;
 }
@@ -402,4 +404,61 @@ a:hover {
     object-fit: cover;
     top: 590px;
     right: 60px;
+}
+/* Footer */
+.footer {
+    margin-top: 50px;
+    padding: 45px 100px 38px;
+    border-top: 1px solid rgba(0, 0, 0, 0.17);
+    background: #fff;
+}
+.footer .main_content {
+    display: flex;
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 48px;
+}
+.footer .footer_info {
+    width: 23%;
+    margin-right: 136px;
+}
+.footer .footer_info .brand_name {
+    color: #000;
+    font-size: 2.4;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.footer .footer_info .desc {
+    color: #9f9f9f;
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.footer .footer_links {
+    margin-right: 145px;
+}
+.footer .title {
+    color: #9f9f9f;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 55px;
+    display: block;
+}
+.footer .main_content .link_list {
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+}
+.footer .main_content .link a {
+    color: #000;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+.footer .main_content .footer_help {
+    margin-right: 72px;
+}
+.footer .copy_right {
+    margin-top: 35px;
+    color: #000;
+    font-size: 1.6rem;
+    font-weight: 400;
 }
