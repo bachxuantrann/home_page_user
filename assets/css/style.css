@@ -201,6 +201,7 @@ a:hover {
     align-items: center;
     opacity: 0;
     transition: opacity 0.5s ease;
+    width: 80%;
 }
 .overlay .add_to_cart {
     color: var(--Primary, #b88e2f);
@@ -211,6 +212,7 @@ a:hover {
     padding: 12px 40px;
     background-color: #fff;
     margin-bottom: 24px;
+    display: block;
 }
 .overlay .add_to_cart:hover {
     opacity: 0.9;
