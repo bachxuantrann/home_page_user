@@ -343,67 +343,67 @@ a:hover {
     position: absolute;
 }
 .feedback .img_feedback_1 {
-    width: 20%;
-    height: 382px;
+    width: 7%;
+    height: 42.7%;
     object-fit: cover;
-    left: -160px;
-    top: 140px;
+    left: 0;
+    top: 14%;
 }
 .feedback .img_feedback_2 {
-    width: 26.4%;
-    height: 323px;
+    width: 14.5%;
+    height: 36%;
     object-fit: cover;
-    left: -135px;
-    top: 542px;
+    left: 0%;
+    top: 58.2%;
 }
 .feedback .img_feedback_3 {
-    width: 30%;
-    height: 312px;
+    width: 31.3%;
+    height: 34.8%;
     object-fit: cover;
-    top: 210px;
-    left: 115px;
+    top: 21.9%;
+    left: 8%;
 }
 .feedback .img_feedback_4 {
-    width: 22%;
-    height: 242px;
+    width: 23.8%;
+    height: 27%;
     object-fit: cover;
-    top: 542px;
-    left: 216px;
+    top: 58.2%;
+    left: 15.5%;
 }
 .feedback .img_feedback_5 {
-    width: 20%;
-    height: 392px;
+    width: 20.4%;
+    height: 43.7%;
     object-fit: cover;
-    top: 282px;
-    right: 500px;
+    top: 30%;
+    left: 40%;
 }
 .feedback .img_feedback_6 {
-    width: 19.5%;
-    height: 348px;
+    width: 20%;
+    height: 39%;
     object-fit: cover;
-    top: 225px;
-    right: 236px;
+    top: 25%;
+    right: 18.8%;
 }
 .feedback .img_feedback_7 {
     width: 12.2%;
     height: 242px;
     object-fit: cover;
-    top: 590px;
-    right: 330px;
+    top: 65.6%;
+    right: 26.6%;
 }
 .feedback .img_feedback_8 {
-    width: 17%;
-    height: 433px;
+    width: 18%;
+    height: 48.5%;
     object-fit: cover;
-    top: 140px;
+    top: 15.6%;
     right: 0;
 }
 .feedback .img_feedback_9 {
-    width: 20%;
-    height: 196px;
+    width: 18%;
+    height: 21.8%;
     object-fit: cover;
-    top: 590px;
-    right: 60px;
+    top: 65.6%;
+    right: 7.8%;
 }
 /* Footer */
 .footer {
